@@ -1,0 +1,19 @@
+{
+  "name": "arnaudsima",
+  "version": "1.0.0",
+  "description": "a module made to scan a json object and tell you if it matches a precise pattern",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArnaudSima/npmModuleJsonValidator.git"
+  },
+  "author": "arnaudSima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArnaudSima/npmModuleJsonValidator/issues"
+  },
+  "homepage": "https://github.com/ArnaudSima/npmModuleJsonValidator#readme"
+}
